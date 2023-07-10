@@ -1,9 +1,9 @@
-
+import Link from "next/link"
 export default function Home() {
   return (
     
    <div>
-hello f
+<h1>Acceuil </h1>
    </div>
   )
 }
